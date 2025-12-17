@@ -1,0 +1,1 @@
+# Development-of-a-machine-learning-algorithm-for-the-detection-of-epidermolysis-bullosa
